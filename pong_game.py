@@ -1,7 +1,3 @@
-__author__: "Tomas Sabol"
-
-"----------------------------"
-
 import turtle
 
 
